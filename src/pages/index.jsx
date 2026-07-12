@@ -121,7 +121,7 @@ export default function Portfolio() {
               <Mail size={20} />
               <span>Let's Talk</span>
             </a>
-            <a href="https://linkedin.com/in/hazar-nenni" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
+            <a href="https://www.linkedin.com/in/hazar-nenni-1603a4175/" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
               <Linkedin size={20} />
               <span>Connect</span>
             </a>
@@ -276,7 +276,7 @@ export default function Portfolio() {
                 <h3>Technical Skills</h3>
               </div>
               <div className="skills-tags">
-                {['PHP', 'Java', 'JavaScript', 'Go', 'Node.js', 'ReactJS', 'AngularJS', 'Laravel', 'Symfony', 'Prisma', 'GraphQL', 'Docker', 'AWS S3', 'Cloudflare', 'CI/CD', 'Git/GitHub', 'Tailwind', 'Bootstrap'].map(skill => (
+                {['PHP', 'Java', 'JavaScript', 'Go', 'Node.js', 'ReactJS', 'Next Js', 'Laravel', 'Symfony', 'Prisma', 'GraphQL', 'Docker', 'AWS S3', 'Cloudflare', 'CI/CD', 'Git/GitHub', 'Tailwind', 'Bootstrap'].map(skill => (
                   <span key={skill} className="skill-tag tech-tag">{skill}</span>
                 ))}
               </div>
@@ -349,7 +349,7 @@ export default function Portfolio() {
                 <Mail size={24} />
                 <span>Email Me</span>
               </a>
-              <a href="https://linkedin.com/in/hazar-nenni" target="_blank" rel="noopener noreferrer" className="btn btn-secondary btn-large">
+              <a href="https://www.linkedin.com/in/hazar-nenni-1603a4175/" target="_blank" rel="noopener noreferrer" className="btn btn-secondary btn-large">
                 <Linkedin size={24} />
                 <span>LinkedIn</span>
               </a>
